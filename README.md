@@ -1,2 +1,2 @@
 # Cuenta_bancaria
-Un operador bancario utilizando POO
+Un operador bancario programado con rudimentos de POO.
